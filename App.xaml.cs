@@ -1,15 +1,17 @@
-﻿using System;
+﻿using cvapp;
+using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace AppFormsv0._1
+namespace cvapp
 {
     public partial class App : Application
     {
         public App()
         {
+            // 
             InitializeComponent();
-
+            // Especificando la pagina de arranque
             MainPage = new MainPage();
         }
 

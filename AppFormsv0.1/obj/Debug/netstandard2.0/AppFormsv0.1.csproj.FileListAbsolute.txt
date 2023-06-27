@@ -1,8 +1,0 @@
-C:\Users\pulse\source\repos\AppFormsv0.1\AppFormsv0.1\obj\Debug\netstandard2.0\AppFormsv0.1.csproj.AssemblyReference.cache
-C:\Users\pulse\source\repos\AppFormsv0.1\AppFormsv0.1\obj\Debug\netstandard2.0\AppFormsv0.1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\pulse\source\repos\AppFormsv0.1\AppFormsv0.1\obj\Debug\netstandard2.0\App.xaml.g.cs
-C:\Users\pulse\source\repos\AppFormsv0.1\AppFormsv0.1\obj\Debug\netstandard2.0\CVPage.xaml.g.cs
-C:\Users\pulse\source\repos\AppFormsv0.1\AppFormsv0.1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
-C:\Users\pulse\source\repos\AppFormsv0.1\AppFormsv0.1\obj\Debug\netstandard2.0\AppFormsv0.1.AssemblyInfoInputs.cache
-C:\Users\pulse\source\repos\AppFormsv0.1\AppFormsv0.1\obj\Debug\netstandard2.0\AppFormsv0.1.AssemblyInfo.cs
-C:\Users\pulse\source\repos\AppFormsv0.1\AppFormsv0.1\obj\Debug\netstandard2.0\AppFormsv0.1.csproj.CoreCompileInputs.cache
